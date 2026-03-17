@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "おどるポンポコリン - Odoru Ponpokorin",
+  "base_artist": "Ado",
+  "createdAt": "2026-03-17T06:21:01.450598Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "おどるポンポコリン",
+      "artist": "東京ブラススタイル",
+      "has_synced": false,
+      "path": "select/01_おどるポンポコリン_東京ブラススタイル.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "おどるポンポコリン",
+      "artist": "Sakurako Ohara",
+      "has_synced": true,
+      "path": "select/02_おどるポンポコリン_Sakurako_Ohara.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "おどるポンポコリン",
+      "artist": "Momoiro Clover Z, まるちゃんと仲間たち",
+      "has_synced": true,
+      "path": "select/03_おどるポンポコリン_Momoiro_Clover_Z,_まるちゃんと仲間たち.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "おどるポンポコリン",
+      "artist": "E-girls",
+      "has_synced": true,
+      "path": "select/04_おどるポンポコリン_E-girls.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "おどるポンポコリン",
+      "artist": "B.B.クイーンズ",
+      "has_synced": true,
+      "path": "select/05_おどるポンポコリン_B.B.クイーンズ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "おどるポンポコリン",
+      "artist": "Momoiro Clover Z Feat. Maruchan & Nakamatachi",
+      "has_synced": true,
+      "path": "select/06_おどるポンポコリン_Momoiro_Clover_Z_Feat._Maruchan_&_Nakamatachi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "おどるポンポコリン",
+      "artist": "E-girls",
+      "has_synced": false,
+      "path": "select/07_おどるポンポコリン_E-girls.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "おどるポンポコリン",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/08_おどるポンポコリン_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "おどるポンポコリン",
+      "artist": "B.B.クィーンズ",
+      "has_synced": true,
+      "path": "select/09_おどるポンポコリン_B.B.クィーンズ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "おどるポンポコリン",
+      "artist": "ManaKana",
+      "has_synced": true,
+      "path": "select/10_おどるポンポコリン_ManaKana.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "おどるポンポコリン",
+      "artist": "Momoiro Clover Z",
+      "has_synced": true,
+      "path": "select/11_おどるポンポコリン_Momoiro_Clover_Z.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "おどるポンポコリン - Odoru Pompokolin",
+      "artist": "Momoiro Clover Z feat. Maruchan to Nakamatachi",
+      "has_synced": true,
+      "path": "select/12_おどるポンポコリン_-_Odoru_Pompokolin_Momoiro_Clover_Z_feat._Maruchan_to_Nakamatachi.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "おどるポンポコリン",
+      "artist": "GOLDEN BOMBER",
+      "has_synced": true,
+      "path": "select/13_おどるポンポコリン_GOLDEN_BOMBER.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "おどるポンポコリン",
+      "artist": "B.B.クｲーンズ",
+      "has_synced": true,
+      "path": "select/14_おどるポンポコリン_B.B.クイーンズ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "おどるポンポコリン",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/15_おどるポンポコリン_Various.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "おどるポンポコリン",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/16_おどるポンポコリン_Various.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Odoru Pompokolin [おどるポンポコリン]",
+      "artist": "Tokyo Brass Style",
+      "has_synced": false,
+      "path": "select/17_Odoru_Pompokolin_[おどるポンポコリン]_Tokyo_Brass_Style.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おどるポンポコリン",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_おどるポンポコリン_Ado.txt"
+    }
+  ]
+}
